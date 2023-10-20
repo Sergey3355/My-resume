@@ -1,9 +1,6 @@
 a {
   text-decoration: none;
 }
-li {
-  list-style: none;
-}
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -318,4 +315,8 @@ body {
 .join-list {
   display: flex;
   gap: 30px;
+}
+
+.join-item {
+  list-style: none;
 }
